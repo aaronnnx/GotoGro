@@ -229,8 +229,7 @@
 
        echo '<br><br> <center> <a href="managerHomepage.php">Click here to the homepage</a> <br><br>';
        echo '<a href="addMemberManager.php">Click here to the add member again.</a> </center>';
-
-       ?>
+      ?>
 
 
 </body>
